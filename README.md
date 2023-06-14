@@ -5,6 +5,9 @@ The project includes three main parts, each with their own subtasks:
 - Data Cleaning using Spreadsheets
 - Getting Insights using Tableau
 
+![image](https://github.com/Babita-03/Capstone-Project-Unicorn-SQL-Spreadsheets-Tableau/assets/130641794/bc30d081-b7cf-4448-8560-670d79a70742)
+
+
 **Project Background**
 
 The online sector has been slowly eating up market share in the past two decades. E-commerce platforms like Unicorn allow people to buy products online: from books, toys, clothes, and shoes to food, furniture, and other household items. The  dataset includes Unicorn sales data from the years 2015-2018.
